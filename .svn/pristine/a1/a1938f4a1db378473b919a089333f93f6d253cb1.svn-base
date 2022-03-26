@@ -1,0 +1,808 @@
+{
+    "episodes": [{
+        "type": "episode",
+        "name": "Donagh Horgan",
+        "description": "Donagh Horgan<\/a> TaaS.",
+        "episode": 1,
+        "pic": "images/donagh_horgan.png",
+        "date": "2012-05-05 23:50:11",
+        "slug": "inventor_Donagh_Horgan",
+        "links": ["00001","00002","00005","00012","00013","00016","00018","00043","garage","TaaS"]
+    }, {
+        "type": "episode",
+        "name": "Mike Cronin",
+        "description": "Mike Cronin<\/a> Garage<\/a>.",
+        "episode": 2,
+        "pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Mike_Cronin",
+        "links": ["00001","00002","00014","garage"]
+    }, {
+        "type": "episode",
+        "name": "Eric Thiebaut-George",
+        "description": "Eric Thiebaut-George<\/a> TaaS<\/a>.",
+        "episode": 3,
+        "pic": "images/eric_thiebaut_george.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Eric_Thiebaut_George",
+        "links": ["00007","00023","00043","TaaS"]
+    }, {
+        "type": "episode",
+        "name": "Sajjad Pourmohammad",
+        "description": "Sajjad Pourmohammad<\/a> TaaS<\/a>.",
+        "episode": 4,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Sajjad_Pourmohammad",
+        "links": ["00010","00023","TaaS"]
+    }, {
+        "type": "episode",
+        "name": "Anne Gallagher",
+        "description": "Anne Gallagher<\/a> TaaS<\/a>.",
+		"pic": "images/head_green.png",
+        "episode": 5,
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Anne_Gallagher",
+        "links": ["00011","TaaS"]
+    }, {
+        "type": "episode",
+        "name": "Seth Freedman",
+        "description": "Seth Freedman<\/a> Garage<\/a>.",
+		"pic": "images/head_green.png",
+        "episode": 6,
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Seth_Freedman",
+        "links": ["00014","garage"]
+    }, {
+        "type": "episode",
+        "name": "Ania Vinogradova",
+        "description": "Ania Vinogradova<\/a> TaaS<\/a>.",
+		"pic": "images/head_green.png",
+        "episode": 7,
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Ania_Vinogradova",
+        "links": ["00019","00021","TaaS"]
+    }, {
+        "type": "episode",
+        "name": "Jacinta Clair",
+        "description": "Jacinta Clair<\/a> Tech Comms<\/a>.",
+		"pic": "images/head_green.png",
+        "episode": 8,
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Jacinta Clair",
+        "links": ["00020","Tech Comms"]
+    }, {
+        "type": "episode",
+        "name": "Zhiqian Wang",
+        "description": "Zhiqian Wang<\/a> Retail<\/a>.",
+		"pic": "images/head_green.png",
+        "episode": 9,
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Zhiqian_Wang",
+        "links": ["00028","00029","Retail"]
+    }, {
+        "type": "episode",
+        "name": "James Young",
+        "description": "James Young<\/a> Tech Comms<\/a>.",
+		"pic": "images/head_green.png",
+        "episode": 10,
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_James_Young",
+        "links": ["00032","Tech Comms"]
+    },
+	
+	{
+        "type": "episode",
+        "name": "Juan Camarasa",
+        "description": "Juan Camarasa<\/a> BT and S.",
+        "episode": 11,
+        "pic": "images/head_red.png",
+        "date": "2012-05-05 23:50:11",
+        "slug": "inventor_Juan_Camarasa",
+        "links": ["00034","00054","BT and S"]
+    }, {
+        "type": "episode",
+        "name": "Alexander Horn",
+        "description": "Alexander Horn<\/a> Retail<\/a>.",
+        "episode": 12,
+        "pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Alexander_Horn",
+        "links": ["00035","retail"]
+    }, {
+        "type": "episode",
+        "name": "Matthew Leach",
+        "description": "Matthew Leach<\/a> Tech Comms<\/a>.",
+        "episode": 13,
+        "pic": "images/head_blue.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Matthew_Leach",
+        "links": ["00044","Tech Comms"]
+    }, {
+        "type": "episode",
+        "name": "Adam Lloyd",
+        "description": "Adam Lloyd<\/a> TOFS<\/a>.",
+        "episode": 14,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Adam_Lloyd",
+        "links": ["00045","TOFS"]
+    }, {
+        "type": "episode",
+        "name": "Abdul Razak",
+        "description": "Abdul Razak<\/a> Controls<\/a>.",
+        "episode": 15,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Abdul_Razak",
+        "links": ["00048","00049","00050","00052","00058","00073","Controls"]
+    }, {
+        "type": "episode",
+        "name": "Marcin Dziduch",
+        "description": "Marcin Dziduch<\/a> Controls<\/a>.",
+        "episode": 16,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Marcin_Dziduch",
+        "links": ["00049","00050","00052","Controls"]
+    }, {
+        "type": "episode",
+        "name": "Michael Paolella",
+        "description": "Michael Paolella<\/a> Retail<\/a>.",
+        "episode": 17,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Michael_Paolella",
+        "links": ["00055","Retail"]
+    }, {
+        "type": "episode",
+        "name": "Bogdan Pavel",
+        "description": "Bogdan Pavel<\/a> TaaS<\/a>.",
+        "episode": 18,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Bogdan_Pavel",
+        "links": ["00061","00063","00064","00065","00066","00067","00068","TaaS"]
+    }, {
+        "type": "episode",
+        "name": "Maebh Costello",
+        "description": "Maebh Costello<\/a> TaaS<\/a>.",
+        "episode": 19,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Maebh_Costello",
+        "links": ["00063","00064","00065","00066","00067","00068","00070","00076","00077","TaaS"]
+    }, {
+        "type": "episode",
+        "name": "Graham Baitson",
+        "description": "Graham Baitsong<\/a> Garage<\/a>.",
+        "episode": 20,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Graham_Baitson",
+        "links": ["00001","00002","garage"]
+    },
+
+	{
+        "type": "episode",
+        "name": "Jan Holliday",
+        "description": "Jan Holliday<\/a> TaaS",
+        "episode": 21,
+        "pic": "images/head_red.png",
+        "date": "2012-05-05 23:50:11",
+        "slug": "inventor_Jan_Holliday",
+        "links": ["00005","00012","00013","00016","00018","00070","TaaS"]
+    }, {
+        "type": "episode",
+        "name": "Richard Campero",
+        "description": "Richard Campero<\/a> TaaS<\/a>.",
+        "episode": 22,
+        "pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Richard_Campero",
+        "links": ["00007","00011","TaaS"]
+    }, {
+        "type": "episode",
+        "name": "Peter Ainsworth",
+        "description": "Peter Ainsworth<\/a> TaaS<\/a>.",
+        "episode": 23,
+        "pic": "images/head_blue.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Peter_Ainsworth",
+        "links": ["00011","TaaS"]
+    }, {
+        "type": "episode",
+        "name": "Monika Hajkova",
+        "description": "Monika Hajkova<\/a> TaaS<\/a>.",
+        "episode": 24,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Monika Hajkova",
+        "links": ["00019","TaaS"]
+    }, {
+        "type": "episode",
+        "name": "Róisín O'Brien",
+        "description": "Róisín O'Brien<\/a> Tech Comms<\/a>.",
+        "episode": 25,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Roisin_OBrien",
+        "links": ["00044","Tech Comms"]
+    }, {
+        "type": "episode",
+        "name": "Shane O'Sullivan",
+        "description": "Shane O'Sullivan<\/a> Tech Comms<\/a>.",
+        "episode": 26,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Shane_OSullivan",
+        "links": ["00020","Tech Comms"]
+    }, {
+        "type": "episode",
+        "name": "Volodymyr Korolyov",
+        "description": "Volodymyr Korolyov<\/a> TOFS<\/a>.",
+        "episode": 27,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Volodymyr_Korolyov",
+        "links": ["00021","00045","TOFS"]
+    }, {
+        "type": "episode",
+        "name": "Nicola-Marie O'Riordan",
+        "description": "Nicola-Marie O'Riordan<\/a> Tech Comms<\/a>.",
+        "episode": 28,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Nicola_Marie_ORiordan",
+        "links": ["00032","00079","Tech Comms"]
+    }, {
+        "type": "episode",
+        "name": "Augusto Pissarra",
+        "description": "Augusto Pissarra<\/a> TOFS<\/a>.",
+        "episode": 29,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Augusto_Pissarra",
+        "links": ["00045","TOFS"]
+    }, {
+        "type": "episode",
+        "name": "Conor Donovan",
+        "description": "Conor Donovan<\/a> Controls<\/a>.",
+        "episode": 30,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Conor_Donovan",
+        "links": ["00048","00049","00050","00052","Controls"]
+    },
+	{
+        "type": "episode",
+        "name": "Sean Finnegan",
+        "description": "Sean Finnegan<\/a> BT and S.",
+        "episode": 31,
+        "pic": "images/head_red.png",
+        "date": "2012-05-05 23:50:11",
+        "slug": "inventor_Sean_Finnegan",
+        "links": ["00054","BT and S"]
+    }, {
+        "type": "episode",
+        "name": "Michael Stewart",
+        "description": "Michael Stewart<\/a> TaaS<\/a>.",
+        "episode": 32,
+        "pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Michael_Stewart",
+        "links": ["00035","TaaS"]
+    }, {
+        "type": "episode",
+        "name": "James Hurley",
+        "description": "James Hurley<\/a> Garage<\/a>.",
+        "episode": 33,
+        "pic": "images/head_blue.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_James_Hurley",
+        "links": ["00001","00002","garage"]
+    }, {
+        "type": "episode",
+        "name": "Niall McElwain",
+        "description": "Niall McElwain<\/a> TaaS<\/a>.",
+        "episode": 34,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Niall_McElwain",
+        "links": ["00007","TaaS"]
+    }, {
+        "type": "episode",
+        "name": "Derek Boyes",
+        "description": "Derek Boyes<\/a> TaaS<\/a>.",
+        "episode": 35,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Abdul_Razak",
+        "links": ["00011","TaaS"]
+    }, {
+        "type": "episode",
+        "name": "Michael Beck",
+        "description": "Michael Beck<\/a> Garage<\/a>.",
+        "episode": 36,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Michael_Beck",
+        "links": ["00014","garage"]
+    }, {
+        "type": "episode",
+        "name": "Sarah Downey",
+        "description": "Sarah Downey<\/a> Tech Comms<\/a>.",
+        "episode": 37,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Michael_Paolella",
+        "links": ["00020","Tech Comms"]
+    }, {
+        "type": "episode",
+        "name": "Liam Moore",
+        "description": "Liam Moore<\/a> TOFS<\/a>.",
+        "episode": 38,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Liam_Moore",
+        "links": ["00021","TOFS"]
+    }, {
+        "type": "episode",
+        "name": "Doireann Hurley",
+        "description": "Doireann Hurley<\/a> Tech Comms<\/a>.",
+        "episode": 39,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Doireann_Hurley",
+        "links": ["00032","Tech Comms"]
+    }, {
+        "type": "episode",
+        "name": "Rovigo Manucci",
+        "description": "Rovigo Manucci<\/a> TOFS<\/a>.",
+        "episode": 40,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Rovigo_Manucci",
+        "links": ["00045","TOFS"]
+    },	
+	{
+        "type": "episode",
+        "name": "Gopi Subramanian",
+        "description": "Gopi Subramanian<\/a> Controls.",
+        "episode": 41,
+        "pic": "images/head_red.png",
+        "date": "2012-05-05 23:50:11",
+        "slug": "inventor_Gopi_Subramanian",
+        "links": ["00048","00058","Controls"]
+    }, {
+        "type": "episode",
+        "name": "Martina Schwarz",
+        "description": "Martina Schwarz<\/a> BT and S<\/a>.",
+        "episode": 42,
+        "pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Martina_Schwarz",
+        "links": ["00054","BT and S"]
+    }, {
+        "type": "episode",
+        "name": "Federico Fala",
+        "description": "Federico Fala<\/a> TaaS<\/a>.",
+        "episode": 43,
+        "pic": "images/head_blue.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Federico_Fala",
+        "links": ["00063","00064","00065","00066","00067","00068","00070","00080","TaaS"]
+    }, {
+        "type": "episode",
+        "name": "Oliver O'Mahony",
+        "description": "Oliver O'Mahony<\/a> TaaS<\/a>.",
+        "episode": 44,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Oliver_OsMahony",
+        "links": ["00007","TaaS"]
+    }, {
+        "type": "episode",
+        "name": "Youngchoon Park",
+        "description": "Youngchoon Park<\/a> TaaS<\/a>.",
+        "episode": 45,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Youngchoon_Park",
+        "links": ["00011","TaaS"]
+    }, {
+        "type": "episode",
+        "name": "Audrey Walsh",
+        "description": "Audrey Walsh<\/a> Tech Comms<\/a>.",
+        "episode": 46,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Audrey_Walsh",
+        "links": ["00020","Tech Comms"]
+    }, {
+        "type": "episode",
+        "name": "Sudhi Sinha",
+        "description": "Sudhi Sinha<\/a> TaaS<\/a>.",
+        "episode": 47,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Sudhi_Sinha",
+        "links": ["00011","TaaS"]
+    }, {
+        "type": "episode",
+        "name": "Jennifer Browne",
+        "description": "Jennifer Browne<\/a> Tech Comms<\/a>.",
+        "episode": 48,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Jennifer_Browne",
+        "links": ["00020","Tech Comms"]
+    }, {
+        "type": "episode",
+        "name": "Erik Paulson",
+        "description": "Erik Paulson<\/a> TaaS<\/a>.",
+        "episode": 49,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Erik_Paulson",
+        "links": ["00011","TaaS"]
+    },
+	 {
+        "type": "episode",
+        "name": "Esther Leuttgen",
+        "description": "Esther Leuttgen<\/a> TaaS<\/a>.",
+        "episode": 50,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Esther_Leuttgen",
+        "links": ["00079","Tech Comms"]
+    },
+	 {
+        "type": "episode",
+        "name": "Catherine Manning",
+        "description": "Catherine Manning<\/a> TaaS<\/a>.",
+        "episode": 51,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Catherine_Manning",
+        "links": ["00080","TaaS"]
+    },
+	 {
+        "type": "episode",
+        "name": "Paul Vincent",
+        "description": "Paul Vincent<\/a> TaaS<\/a>.",
+        "episode": 52,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Paul_Vincent",
+        "links": ["00080","TaaS"]
+    },
+	 {
+        "type": "episode",
+        "name": "Marcel Tonieti Andrade",
+        "description": "Marcel Tonieti Andrade<\/a> TaaS<\/a>.",
+        "episode": 53,
+		"pic": "images/head_green.png",
+        "date": "2012-05-09 15:53:27",
+        "slug": "inventor_Marcel_Tonieti_Andrade",
+        "links": ["00080","TaaS"]
+    }
+	
+	
+	
+	],
+    "themes": [{
+        "type": "theme",
+        "name": "00001",
+        "description": "",
+        "slug": "00001-2"
+    },
+	{
+        "type": "theme",
+        "name": "00002",
+        "description": "",
+        "slug": "00002-2"
+    },
+	{
+        "type": "theme",
+        "name": "00005",
+        "description": "",
+        "slug": "00005-2"
+    },
+	{
+        "type": "theme",
+        "name": "00007",
+        "description": "",
+        "slug": "00007-2"
+    },
+	{
+        "type": "theme",
+        "name": "00010",
+        "description": "",
+        "slug": "00010-2"
+    },
+	{
+        "type": "theme",
+        "name": "00011",
+        "description": "",
+        "slug": "00011-2"
+    },
+	{
+        "type": "theme",
+        "name": "00012",
+        "description": "",
+        "slug": "00012-2"
+    },{
+        "type": "theme",
+        "name": "00013",
+        "description": "",
+        "slug": "00013-2"
+    },
+	{
+        "type": "theme",
+        "name": "00014",
+        "description": "",
+        "slug": "00014-2"
+    },
+	{
+        "type": "theme",
+        "name": "00016",
+        "description": "",
+        "slug": "00016-2"
+    },
+	{
+        "type": "theme",
+        "name": "00018",
+        "description": "",
+        "slug": "00018-2"
+    },
+	{
+        "type": "theme",
+        "name": "00019",
+        "description": "",
+        "slug": "00019-2"
+    },
+	{
+        "type": "theme",
+        "name": "00020",
+        "description": "",
+        "slug": "00020-2"
+    },
+	{
+        "type": "theme",
+        "name": "00021",
+        "description": "",
+        "slug": "00021-2"
+    },
+	{
+        "type": "theme",
+        "name": "00023",
+        "description": "",
+        "slug": "00023-2"
+    },
+	{
+        "type": "theme",
+        "name": "00028",
+        "description": "",
+        "slug": "00028-2"
+    },
+	{
+        "type": "theme",
+        "name": "00029",
+        "description": "",
+        "slug": "00029-2"
+    },
+	{
+        "type": "theme",
+        "name": "00032",
+        "description": "",
+        "slug": "00032-2"
+    },
+	{
+        "type": "theme",
+        "name": "00034",
+        "description": "",
+        "slug": "00034-2"
+    },
+	{
+        "type": "theme",
+        "name": "00035",
+        "description": "",
+        "slug": "00035-2"
+    },
+	{
+        "type": "theme",
+        "name": "00043",
+        "description": "",
+        "slug": "00043-2"
+    },
+	{
+        "type": "theme",
+        "name": "00044",
+        "description": "",
+        "slug": "00044-2"
+    },
+	{
+        "type": "theme",
+        "name": "00045",
+        "description": "",
+        "slug": "00045-2"
+    },
+	{
+        "type": "theme",
+        "name": "00048",
+        "description": "",
+        "slug": "00048-2"
+    },{
+        "type": "theme",
+        "name": "00049",
+        "description": "",
+        "slug": "00049-2"
+    },
+	{
+        "type": "theme",
+        "name": "00050",
+        "description": "",
+        "slug": "00050-2"
+    },
+	{
+        "type": "theme",
+        "name": "00052",
+        "description": "",
+        "slug": "00052-2"
+    },
+	{
+        "type": "theme",
+        "name": "00054",
+        "description": "",
+        "slug": "00054-2"
+    },
+	{
+        "type": "theme",
+        "name": "00055",
+        "description": "",
+        "slug": "00055-2"
+    },
+	{
+        "type": "theme",
+        "name": "00058",
+        "description": "",
+        "slug": "00058-2"
+    },
+	{
+        "type": "theme",
+        "name": "00061",
+        "description": "",
+        "slug": "00061-2"
+    },
+	{
+        "type": "theme",
+        "name": "00063",
+        "description": "",
+        "slug": "00063-2"
+    },
+	{
+        "type": "theme",
+        "name": "00064",
+        "description": "",
+        "slug": "00064-2"
+    },
+	{
+        "type": "theme",
+        "name": "00065",
+        "description": "",
+        "slug": "00065-2"
+    },
+	{
+        "type": "theme",
+        "name": "00066",
+        "description": "",
+        "slug": "00066-2"
+    },
+	{
+        "type": "theme",
+        "name": "00067",
+        "description": "",
+        "slug": "00067-2"
+    },
+	{
+        "type": "theme",
+        "name": "00068",
+        "description": "",
+        "slug": "00068-2"
+    },
+	{
+        "type": "theme",
+        "name": "00070",
+        "description": "",
+        "slug": "00070-2"
+    },
+	{
+        "type": "theme",
+        "name": "00073",
+        "description": "",
+        "slug": "00073-2"
+    },
+	{
+        "type": "theme",
+        "name": "00076",
+        "description": "",
+        "slug": "00076-2"
+    },
+	{
+        "type": "theme",
+        "name": "00077",
+        "description": "",
+        "slug": "00077-2"
+    },
+	{
+        "type": "theme",
+        "name": "00079",
+        "description": "",
+        "slug": "00079-2"
+    },
+		{
+        "type": "theme",
+        "name": "00080",
+        "description": "",
+        "slug": "00080-2"
+    }],
+    "perspectives": [{
+        "type": "perspective",
+        "name": "Garage",
+        "description": "Johnson Controls Garage team",
+        "slug": "biocentric-value-source",
+        "count": 10,
+        "group": 281
+    },
+	{
+        "type": "perspective",
+        "name": "TaaS",
+        "description": "Johnson Controls TaaS team",
+        "slug": "biocentric-value-source",
+        "count": 10,
+        "group": 281
+    }, {
+        "type": "perspective",
+        "name": "BT and S",
+        "description": "Johnson Controls BT&S team<\/a>.",
+        "slug": "collectivist",
+        "count": 10,
+        "group": 282
+    }, {
+        "type": "perspective",
+        "name": "TOFS",
+        "description": "Johnson Controls TOFS team<\/a>.",
+        "slug": "individualist",
+        "count": 10,
+        "group": 282
+    }, {
+        "type": "perspective",
+        "name": "Tech Comms",
+        "description": "Johnson Controls Technical Communications team<\/a>.",
+        "slug": "individualist",
+        "count": 10,
+        "group": 283
+    }, {
+        "type": "perspective",
+        "name": "Controls",
+        "description": "Johnson Controls Controls team<\/a>.",
+        "slug": "individualist",
+        "count": 10,
+        "group": 283
+    },{
+        "type": "perspective",
+        "name": "Retail",
+        "description": "Johnson Controls Retail team<\/a>.",
+        "slug": "individualist",
+        "count": 10,
+        "group": 284
+    },{
+        "type": "perspective",
+        "name": "Security",
+        "description": "Others<\/a>.",
+        "slug": "individualist",
+        "count": 10,
+        "group": 284
+    }]
+}

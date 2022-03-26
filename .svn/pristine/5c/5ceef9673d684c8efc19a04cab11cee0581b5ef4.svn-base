@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en-US">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <!-- Mobile viewport optimized -->
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="style.css"/>
+    <link rel='stylesheet' href='light_style.css'/>
+    <link rel='stylesheet' href='advanced-recent-posts-widget.css'/>
+    <link rel='stylesheet' href='mediaelementplayer.css'/>
+
+    <!-- WP Head -->
+    <title>JCI Cork &#8211; Patents</title>
+    <meta name="generator" content="WordPress 4.5.14"/>
+    <meta name="template" content="Oxygen 0.6.0"/>
+
+	<style> 
+body {
+	background-image: url("./images/PatentWallBK_full.png");
+	
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	
+}
+</style>
+	
+</head>
+
+<body class="wordpress ltr en_US child-theme y2018 m05 d11 h03 friday logged-out singular singular-page singular-page-872 page-template-concepts no-js">
+<div id="container">
+
+    <div class="wrap">
+
+
+        <div id="main">
+			
+			<div id="graph">
+
+                <!-- where the SVG is generated -->
+				
+				<!--<img src="./images/PatentWallBK.png">-->
+				
+            </div>
+
+            <script src="d3.v3.min.js"></script>
+            <script src="conversation.min.js"></script>
+<p>Made with <span style="color: #e25555;">&hearts;</span> in Cork</p>
+			
+    </div><!-- #main -->
+
+</div><!-- .wrap -->
+
+</div><!-- #container -->
+
+
+<script type='text/javascript' src='http://www.findtheconversation.com/wp-content/plugins/jquery-collapse-o-matic/js/collapse.js?ver=1.6.4'></script>
+<script type='text/javascript' src='http://www.findtheconversation.com/wp-content/themes/oxygen/js/jquery.imagesloaded.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.findtheconversation.com/wp-content/themes/oxygen/js/jquery.masonry.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.findtheconversation.com/wp-content/themes/oxygen/js/cycle/jquery.cycle.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.findtheconversation.com/wp-content/themes/oxygen/js/fitvids/jquery.fitvids.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.findtheconversation.com/wp-content/themes/oxygen/js/navigation.js?ver=20130301'></script>
+<script type='text/javascript' src='http://www.findtheconversation.com/wp-content/themes/oxygen/js/footer-scripts-light.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.findtheconversation.com/wp-includes/js/comment-reply.min.js?ver=4.5.14'></script>
+<script type='text/javascript' src='http://www.findtheconversation.com/wp-content/themes/oxygen/library/js/drop-downs.min.js?ver=20130805'></script>
+<script type='text/javascript' src='http://www.findtheconversation.com/wp-includes/js/wp-embed.min.js?ver=4.5.14'></script>
+
+</body>
+</html>
+
