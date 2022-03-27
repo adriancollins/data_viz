@@ -3,12 +3,12 @@
 "episodes":[
 {
 "type":"episode",
-"name":"Abdul Razak",
-"description":"Abdul Razak<\/a> Controls<\/a>.",
+"name":"AR",
+"description":"AR<\/a> Controls<\/a>.",
 "episode":15,
-"pic":"images/Abdul_Razak.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Abdul_Razak",
+"slug":"inventor_AR",
 "links":[
 "18-0424",
 "18-0584",
@@ -21,12 +21,12 @@
 },
 {
 "type":"episode",
-"name":"Adam Lloyd",
-"description":"Adam Lloyd<\/a> TOFS<\/a>.",
+"name":"AL",
+"description":"AL<\/a> TOFS<\/a>.",
 "episode":14,
-"pic":"images/Adam_Lloyd.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Adam_Lloyd",
+"slug":"inventor_AL",
 "links":[
 "18-0432",
 "TOFS"
@@ -34,12 +34,12 @@
 },
 {
 "type":"episode",
-"name":"Ania Vinogradova",
-"description":"Ania Vinogradova<\/a> TaaS<\/a>.",
-"pic":"images/Ania_Vinogradova.png",
+"name":"AV",
+"description":"AV<\/a> TaaS<\/a>.",
+"pic":"images/Fem_head_red.png",
 "episode":7,
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Ania_Vinogradova",
+"slug":"inventor_AV",
 "links":[
 "18-0587",
 "TI-0021",
@@ -48,12 +48,12 @@
 },
 {
 "type":"episode",
-"name":"Audrey Walsh",
-"description":"Audrey Walsh<\/a> Tech Comms<\/a>.",
+"name":"AW",
+"description":"AW<\/a> Tech Comms<\/a>.",
 "episode":46,
-"pic":"images/audrey_walsh.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Audrey_Walsh",
+"slug":"inventor_AW",
 "links":[
 "18-0300",
 "Tech Comms"
@@ -61,12 +61,12 @@
 },
 {
 "type":"episode",
-"name":"Augusto Pissarra",
-"description":"Augusto Pissarra<\/a> TOFS<\/a>.",
+"name":"AP",
+"description":"AP<\/a> TOFS<\/a>.",
 "episode":29,
-"pic":"images/Augusto_Pissarra.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Augusto_Pissarra",
+"slug":"inventor_AP",
 "links":[
 "18-0432",
 "TOFS"
@@ -74,12 +74,12 @@
 },
 {
 "type":"episode",
-"name":"Bogdan Pavel",
-"description":"Bogdan Pavel<\/a> TaaS<\/a>.",
+"name":"BP",
+"description":"BP<\/a> TaaS<\/a>.",
 "episode":18,
-"pic":"images/bogdan_pavel.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Bogdan_Pavel",
+"slug":"inventor_BP",
 "links":[
 "18-0713",
 "18-0663",
@@ -93,12 +93,12 @@
 },
 {
 "type":"episode",
-"name":"Catherine Manning",
-"description":"Catherine Manning<\/a> TaaS<\/a>.",
+"name":"CM",
+"description":"CM<\/a> TaaS<\/a>.",
 "episode":51,
-"pic":"images/catherine_manning.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Catherine_Manning",
+"slug":"inventor_CM",
 "links":[
 "18-0757",
 "TaaS"
@@ -106,12 +106,12 @@
 },
 {
 "type":"episode",
-"name":"Conor Donovan",
-"description":"Conor Donovan<\/a> Controls<\/a>.",
+"name":"CD",
+"description":"CD<\/a> Controls<\/a>.",
 "episode":30,
-"pic":"images/connor_donovan.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Conor_Donovan",
+"slug":"inventor_CD",
 "links":[
 "18-0424",
 "18-0584",
@@ -122,12 +122,12 @@
 },
 {
 "type":"episode",
-"name":"Doireann Hurley",
-"description":"Doireann Hurley<\/a> Tech Comms<\/a>.",
+"name":"DH",
+"description":"DH<\/a> Tech Comms<\/a>.",
 "episode":39,
-"pic":"images/doireann_hurley.png",
+"pic":"images/head_blue.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Doireann_Hurley",
+"slug":"inventor_DH",
 "links":[
 "18-0422",
 "Tech Comms"
@@ -135,12 +135,12 @@
 },
 {
 "type":"episode",
-"name":"Donagh Horgan",
-"description":"Donagh Horgan<\/a> TaaS<\/a>.",
+"name":"DH",
+"description":"DH<\/a> TaaS<\/a>.",
 "episode":1,
-"pic":"images/donagh_horgan.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-05 23:50:11",
-"slug":"inventor_Donagh_Horgan",
+"slug":"inventor_DH",
 "links":[
 "18-0184",
 "18-0186",
@@ -157,12 +157,12 @@
 },
 {
 "type":"episode",
-"name":"Eamonn O'Toole",
-"description":"Eamonn O'Toole<\/a> TaaS<\/a>.",
+"name":"EOT",
+"description":"EOT<\/a> TaaS<\/a>.",
 "episode":68,
-"pic":"images/Eamonn_OToole.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Eamonn_OToole",
+"slug":"inventor_EOT",
 "links":[
 "18-0423",
 "TaaS"
@@ -170,12 +170,12 @@
 },
 {
 "type":"episode",
-"name":"Eddie Keogh",
-"description":"Eddie Keogh<\/a> TOFS<\/a>.",
+"name":"EK",
+"description":"EK<\/a> TOFS<\/a>.",
 "episode":55,
-"pic":"images/eddie_keogh.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Eddie_Keogh",
+"slug":"inventor_EK",
 "links":[
 "TI-0008",
 "TOFS"
@@ -183,12 +183,12 @@
 },
 {
 "type":"episode",
-"name":"Eric Thiebaut-George",
-"description":"Eric Thiebaut-George<\/a> TaaS<\/a>.",
+"name":"ETG",
+"description":"ETG<\/a> TaaS<\/a>.",
 "episode":3,
-"pic":"images/eric_thiebaut_george.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Eric_Thiebaut_George",
+"slug":"inventor_ETG",
 "links":[
 "18-0227",
 "18-0579",
@@ -198,12 +198,12 @@
 },
 {
 "type":"episode",
-"name":"Esther Leuttgen",
-"description":"Esther Leuttgen<\/a> TaaS<\/a>.",
+"name":"EL",
+"description":"EL<\/a> TaaS<\/a>.",
 "episode":50,
-"pic":"images/esther_leuttgen.png",
+"pic":"images/head_blue.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Esther_Leuttgen",
+"slug":"inventor_EL",
 "links":[
 "18-0421",
 "Tech Comms"
@@ -211,12 +211,12 @@
 },
 {
 "type":"episode",
-"name":"Federico Fala",
-"description":"Federico Fala<\/a> TaaS<\/a>.",
+"name":"FF",
+"description":"FF<\/a> TaaS<\/a>.",
 "episode":43,
-"pic":"images/Federico_Fala.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Federico_Fala",
+"slug":"inventor_FF",
 "links":[
 "18-0663",
 "18-0664",
@@ -233,12 +233,12 @@
 },
 {
 "type":"episode",
-"name":"Gopi Subramanian",
-"description":"Gopi Subramanian<\/a> Controls.",
+"name":"GS",
+"description":"GS<\/a> Controls.",
 "episode":41,
-"pic":"images/gopi_subramanian.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-05 23:50:11",
-"slug":"inventor_Gopi_Subramanian",
+"slug":"inventor_GS",
 "links":[
 "18-0424",
 "18-0660",
@@ -247,12 +247,12 @@
 },
 {
 "type":"episode",
-"name":"Graham Baitson",
-"description":"Graham Baitson<\/a> Emerging Tech<\/a>.",
+"name":"GB",
+"description":"GB<\/a> Emerging Tech<\/a>.",
 "episode":20,
-"pic":"images/Graham_Baitson.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Graham_Baitson",
+"slug":"inventor_GB",
 "links":[
 "18-0184",
 "18-0186",
@@ -261,12 +261,12 @@
 },
 {
 "type":"episode",
-"name":"Jacinta Clair",
-"description":"Jacinta Clair<\/a> Tech Comms<\/a>.",
-"pic":"images/jacinta_clair.png",
+"name":"JC",
+"description":"JC<\/a> Tech Comms<\/a>.",
+"pic":"images/Fem_head_red.png",
 "episode":8,
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Jacinta Clair",
+"slug":"inventor_JC",
 "links":[
 "18-0300",
 "Tech Comms"
@@ -274,12 +274,12 @@
 },
 {
 "type":"episode",
-"name":"James Hurley",
-"description":"James Hurley<\/a> Emerging Tech<\/a>.",
+"name":"JH",
+"description":"JH<\/a> Emerging Tech<\/a>.",
 "episode":33,
-"pic":"images/James_Hurley.png",
+"pic":"images/head_blue.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_James_Hurley",
+"slug":"inventor_JH",
 "links":[
 "18-0184",
 "18-0186",
@@ -288,12 +288,12 @@
 },
 {
 "type":"episode",
-"name":"James Young",
-"description":"James Young<\/a> Tech Comms<\/a>.",
-"pic":"images/james_young.png",
+"name":"JY",
+"description":"JY<\/a> Tech Comms<\/a>.",
+"pic":"images/Fem_head_red.png",
 "episode":10,
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_James_Young",
+"slug":"inventor_JY",
 "links":[
 "18-0422",
 "Tech Comms"
@@ -301,12 +301,12 @@
 },
 {
 "type":"episode",
-"name":"Jan Holliday",
-"description":"Jan Holliday<\/a> TaaS",
+"name":"JH",
+"description":"JH<\/a> TaaS",
 "episode":21,
-"pic":"images/Jan_Holliday.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-05 23:50:11",
-"slug":"inventor_Jan_Holliday",
+"slug":"inventor_JH",
 "links":[
 "18-0225",
 "18-0394",
@@ -321,12 +321,12 @@
 },
 {
 "type":"episode",
-"name":"Jennifer Browne",
-"description":"Jennifer Browne<\/a> Tech Comms<\/a>.",
+"name":"JB",
+"description":"JB<\/a> Tech Comms<\/a>.",
 "episode":48,
-"pic":"images/jennifer_browne.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Jennifer_Browne",
+"slug":"inventor_JB",
 "links":[
 "18-0300",
 "Tech Comms"
@@ -334,12 +334,12 @@
 },
 {
 "type":"episode",
-"name":"Juan Camarasa",
-"description":"Juan Camarasa<\/a> BT and S.",
+"name":"JC",
+"description":"JC<\/a> BT and S.",
 "episode":11,
-"pic":"images/juan_camarasa.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-05 23:50:11",
-"slug":"inventor_Juan_Camarasa",
+"slug":"inventor_JC",
 "links":[
 "18-0629",
 "18-0621",
@@ -348,12 +348,12 @@
 },
 {
 "type":"episode",
-"name":"Liam Moore",
-"description":"Liam Moore<\/a> TOFS<\/a>.",
+"name":"LM",
+"description":"LM<\/a> TOFS<\/a>.",
 "episode":38,
-"pic":"images/liam_moore.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Liam_Moore",
+"slug":"inventor_LM",
 "links":[
 "TI-0021",
 "TOFS"
@@ -361,12 +361,12 @@
 },
 {
 "type":"episode",
-"name":"Maebh Costello",
-"description":"Maebh Costello<\/a> TaaS<\/a>.",
+"name":"MC",
+"description":"MC<\/a> TaaS<\/a>.",
 "episode":19,
-"pic":"images/maebh_costello.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Maebh_Costello",
+"slug":"inventor_MC",
 "links":[
 "18-0663",
 "18-0664",
@@ -384,12 +384,12 @@
 },
 {
 "type":"episode",
-"name":"Marcel Andrade",
-"description":"Marcel Andrade<\/a> TaaS<\/a>.",
+"name":"MA",
+"description":"MA<\/a> TaaS<\/a>.",
 "episode":53,
-"pic":"images/marcel_andrade.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Marcel_Andrade",
+"slug":"inventor_MA",
 "links":[
 "18-0757",
 "TaaS"
@@ -397,12 +397,12 @@
 },
 {
 "type":"episode",
-"name":"Marcin Dziduch",
-"description":"Marcin Dziduch<\/a> Controls<\/a>.",
+"name":"MD",
+"description":"MD<\/a> Controls<\/a>.",
 "episode":16,
-"pic":"images/Marcin_Dziduch.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Marcin_Dziduch",
+"slug":"inventor_MD",
 "links":[
 "18-0584",
 "18-0576",
@@ -412,12 +412,12 @@
 },
 {
 "type":"episode",
-"name":"Martina Schwarz",
-"description":"Martina Schwarz<\/a> BT and S<\/a>.",
+"name":"MS",
+"description":"MS<\/a> BT and S<\/a>.",
 "episode":42,
-"pic":"images/Martina_Schwarz.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Martina_Schwarz",
+"slug":"inventor_MS",
 "links":[
 "18-0621",
 "BT and S"
@@ -426,11 +426,11 @@
 {
 "type":"episode",
 "name":"Matthew Leach",
-"description":"Matthew Leach<\/a> Tech Comms<\/a>.",
+"description":"ML<\/a> Tech Comms<\/a>.",
 "episode":13,
-"pic":"images/matthew_leach.png",
+"pic":"image/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Matthew_Leach",
+"slug":"inventor_ML",
 "links":[
 "18-0427",
 "Tech Comms"
@@ -438,12 +438,12 @@
 },
 {
 "type":"episode",
-"name":"Michael Beck",
-"description":"Michael Beck<\/a> Emerging Tech<\/a>.",
+"name":"MB",
+"description":"MB<\/a> Emerging Tech<\/a>.",
 "episode":36,
-"pic":"images/Michael_Beck.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Michael_Beck",
+"slug":"inventor_MB",
 "links":[
 "18-0317",
 "Emerging Tech"
@@ -451,12 +451,12 @@
 },
 {
 "type":"episode",
-"name":"Michael Stewart",
-"description":"Michael Stewart<\/a> TaaS<\/a>.",
+"name":"MS",
+"description":"MS<\/a> TaaS<\/a>.",
 "episode":32,
-"pic":"images/Michael_Stewart.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Michael_Stewart",
+"slug":"inventor_MS",
 "links":[
 "TI-0035",
 "TaaS"
@@ -464,12 +464,12 @@
 },
 {
 "type":"episode",
-"name":"Mike Cronin",
-"description":"Mike Cronin<\/a> Emerging Tech<\/a>.",
+"name":"MC",
+"description":"MC<\/a> Emerging Tech<\/a>.",
 "episode":2,
-"pic":"images/mike_cronin.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Mike_Cronin",
+"slug":"inventor_MC",
 "links":[
 "18-0184",
 "18-0186",
@@ -479,12 +479,12 @@
 },
 {
 "type":"episode",
-"name":"Mike Truss",
-"description":"Mike Truss<\/a> Tech Comms<\/a>.",
+"name":"MT",
+"description":"MT<\/a> Tech Comms<\/a>.",
 "episode":54,
-"pic":"images/mike_truss.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Mike_Truss",
+"slug":"inventor_MT",
 "links":[
 "TI-0008",
 "Tech Comms"
@@ -492,12 +492,12 @@
 },
 {
 "type":"episode",
-"name":"Monika Hajkova",
-"description":"Monika Hajkova<\/a> TaaS<\/a>.",
+"name":"MH",
+"description":"MH<\/a> TaaS<\/a>.",
 "episode":24,
-"pic":"images/monika_hajkova.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Monika Hajkova",
+"slug":"inventor_MH",
 "links":[
 "18-0587",
 "TaaS"
@@ -505,12 +505,12 @@
 },
 {
 "type":"episode",
-"name":"Niall McElwain",
-"description":"Niall McElwain<\/a> TaaS<\/a>.",
+"name":"NM",
+"description":"NM<\/a> TaaS<\/a>.",
 "episode":34,
-"pic":"images/niall_mcelwain.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Niall_McElwain",
+"slug":"inventor_NM",
 "links":[
 "18-0227",
 "TaaS"
@@ -518,12 +518,12 @@
 },
 {
 "type":"episode",
-"name":"Nicola-Marie O'Riordan",
-"description":"Nicola-Marie O'Riordan<\/a> Tech Comms<\/a>.",
+"name":"NMOR",
+"description":"NMOR<\/a> Tech Comms<\/a>.",
 "episode":28,
-"pic":"images/nicola_marie_oriordan.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Nicola_Marie_ORiordan",
+"slug":"inventor_NMOR",
 "links":[
 "18-0422",
 "18-0421",
@@ -532,12 +532,12 @@
 },
 {
 "type":"episode",
-"name":"Oliver O'Mahony",
-"description":"Oliver O'Mahony<\/a> TaaS<\/a>.",
+"name":"OOM",
+"description":"OOM<\/a> TaaS<\/a>.",
 "episode":44,
-"pic":"images/oliver_omahony.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Oliver_OsMahony",
+"slug":"inventor_OOM",
 "links":[
 "18-0227",
 "TaaS"
@@ -545,12 +545,12 @@
 },
 {
 "type":"episode",
-"name":"Paul Vincent",
-"description":"Paul Vincent<\/a> TaaS<\/a>.",
+"name":"PV",
+"description":"PV<\/a> TaaS<\/a>.",
 "episode":52,
-"pic":"images/paul_vincent.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Paul_Vincent",
+"slug":"inventor_PV",
 "links":[
 "18-0757",
 "TaaS"
@@ -558,12 +558,12 @@
 },
 {
 "type":"episode",
-"name":"Rovigo Manucci",
-"description":"Rovigo Manucci<\/a> TOFS<\/a>.",
+"name":"RM",
+"description":"RM<\/a> TOFS<\/a>.",
 "episode":40,
-"pic":"images/rovigo_manucci.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Rovigo_Manucci",
+"slug":"inventor_RM",
 "links":[
 "18-0432",
 "TOFS"
@@ -571,12 +571,12 @@
 },
 {
 "type":"episode",
-"name":"Róisín O'Brien",
-"description":"Róisín O'Brien<\/a> Tech Comms<\/a>.",
+"name":"ROB",
+"description":"ROB<\/a> Tech Comms<\/a>.",
 "episode":25,
 "pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Roisin_OBrien",
+"slug":"inventor_ROB",
 "links":[
 "18-0427",
 "Tech Comms"
@@ -584,12 +584,12 @@
 },
 {
 "type":"episode",
-"name":"Sajjad Pourmohammad",
-"description":"Sajjad Pourmohammad<\/a> TaaS<\/a>.",
+"name":"SP",
+"description":"SP<\/a> TaaS<\/a>.",
 "episode":4,
-"pic":"images/SJ_pourmohammad.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Sajjad_Pourmohammad",
+"slug":"inventor_SP",
 "links":[
 "18-0228",
 "18-0579",
@@ -599,11 +599,11 @@
 {
 "type":"episode",
 "name":"Sarah Downey",
-"description":"Sarah Downey<\/a> Tech Comms<\/a>.",
+"description":"SD<\/a> Tech Comms<\/a>.",
 "episode":37,
-"pic":"images/Sarah_Downey.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Sarah_Downey",
+"slug":"inventor_SD",
 "links":[
 "18-0300",
 "Tech Comms"
@@ -611,12 +611,12 @@
 },
 {
 "type":"episode",
-"name":"Sean Finnegan",
-"description":"Sean Finnegan<\/a> BT and S.",
+"name":"SF",
+"description":"SF<\/a> BT and S.",
 "episode":31,
-"pic":"images/sean_finnegan.png",
+"pic":"images/Fem_head_red.png",
 "date":"2012-05-05 23:50:11",
-"slug":"inventor_Sean_Finnegan",
+"slug":"inventor_SF",
 "links":[
 "18-0621",
 "BT and S"
@@ -624,12 +624,12 @@
 },
 {
 "type":"episode",
-"name":"Seth Freedman",
-"description":"Seth Freedman<\/a> Emerging Tech<\/a>.",
+"name":"SFR",
+"description":"SFR<\/a> Emerging Tech<\/a>.",
 "pic":"images/head_blue.png",
 "episode":6,
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Seth_Freedman",
+"slug":"inventor_SFR",
 "links":[
 "18-0317",
 "Emerging Tech"
@@ -637,12 +637,12 @@
 },
 {
 "type":"episode",
-"name":"Shane O'Sullivan",
-"description":"Shane O'Sullivan<\/a> Tech Comms<\/a>.",
+"name":"SOS",
+"description":"SOS<\/a> Tech Comms<\/a>.",
 "episode":26,
-"pic":"images/shane_osullivan.png",
+"pic":"images/head_blue.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Shane_OSullivan",
+"slug":"inventor_SOS",
 "links":[
 "18-0300",
 "Tech Comms"
@@ -650,12 +650,12 @@
 },
 {
 "type":"episode",
-"name":"Volodymyr Korolyov",
-"description":"Volodymyr Korolyov<\/a> TOFS<\/a>.",
+"name":"VK",
+"description":"VK<\/a> TOFS<\/a>.",
 "episode":27,
-"pic":"images/Volodymyr_Korolyov.png",
+"pic":"images/head_blue.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_Volodymyr_Korolyov",
+"slug":"inventor_VK",
 "links":[
 "TI-0021",
 "18-0432",
@@ -952,5 +952,3 @@
 "group": 283
 }]
 }
-
-
