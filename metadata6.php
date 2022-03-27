@@ -135,12 +135,12 @@
 },
 {
 "type":"episode",
-"name":"DH",
-"description":"DH<\/a> TaaS<\/a>.",
+"name":"DOH",
+"description":"DOH<\/a> TaaS<\/a>.",
 "episode":1,
 "pic":"images/Fem_head_red.png",
 "date":"2012-05-05 23:50:11",
-"slug":"inventor_DH",
+"slug":"inventor_DOH",
 "links":[
 "18-0184",
 "18-0186",
@@ -301,12 +301,12 @@
 },
 {
 "type":"episode",
-"name":"JH",
-"description":"JH<\/a> TaaS",
+"name":"JOH",
+"description":"JOH<\/a> TaaS",
 "episode":21,
 "pic":"images/Fem_head_red.png",
 "date":"2012-05-05 23:50:11",
-"slug":"inventor_JH",
+"slug":"inventor_JOH",
 "links":[
 "18-0225",
 "18-0394",
@@ -334,12 +334,12 @@
 },
 {
 "type":"episode",
-"name":"JC",
-"description":"JC<\/a> BT and S.",
+"name":"JOC",
+"description":"JOC<\/a> BT and S.",
 "episode":11,
 "pic":"images/Fem_head_red.png",
 "date":"2012-05-05 23:50:11",
-"slug":"inventor_JC",
+"slug":"inventor_JOC",
 "links":[
 "18-0629",
 "18-0621",
@@ -425,7 +425,7 @@
 },
 {
 "type":"episode",
-"name":"Matthew Leach",
+"name":"ML",
 "description":"ML<\/a> Tech Comms<\/a>.",
 "episode":13,
 "pic":"image/Fem_head_red.png",
@@ -451,12 +451,12 @@
 },
 {
 "type":"episode",
-"name":"MS",
-"description":"MS<\/a> TaaS<\/a>.",
+"name":"MOS",
+"description":"MOS<\/a> TaaS<\/a>.",
 "episode":32,
 "pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_MS",
+"slug":"inventor_MOS",
 "links":[
 "TI-0035",
 "TaaS"
@@ -464,12 +464,12 @@
 },
 {
 "type":"episode",
-"name":"MC",
-"description":"MC<\/a> Emerging Tech<\/a>.",
+"name":"MAC",
+"description":"MAC<\/a> Emerging Tech<\/a>.",
 "episode":2,
 "pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_MC",
+"slug":"inventor_MAC",
 "links":[
 "18-0184",
 "18-0186",
@@ -479,12 +479,12 @@
 },
 {
 "type":"episode",
-"name":"MT",
-"description":"MT<\/a> Tech Comms<\/a>.",
+"name":"MAT",
+"description":"MAT<\/a> Tech Comms<\/a>.",
 "episode":54,
 "pic":"images/Fem_head_red.png",
 "date":"2012-05-09 15:53:27",
-"slug":"inventor_MT",
+"slug":"inventor_MAT",
 "links":[
 "TI-0008",
 "Tech Comms"
@@ -598,7 +598,7 @@
 },
 {
 "type":"episode",
-"name":"Sarah Downey",
+"name":"SD",
 "description":"SD<\/a> Tech Comms<\/a>.",
 "episode":37,
 "pic":"images/Fem_head_red.png",
